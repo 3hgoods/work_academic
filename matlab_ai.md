@@ -14,4 +14,12 @@ https://kr.mathworks.com/solutions/deep-learning/tutorials-examples.html
 
 ```
 
+### reinforce 
+```
+
+
+https://www.youtube.com/watch?v=M7zFr-dmRx8
+
+```
+
 
